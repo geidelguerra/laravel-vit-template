@@ -6,3 +6,4 @@ This template is configure out of the box with the following:
 - InertiaJs
 - TailwindCSS
 - Pest
+- Ziggy
