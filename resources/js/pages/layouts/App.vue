@@ -1,9 +1,11 @@
 <template>
   <div>
     <header class="flex items-center space-x-2">
-      <div class="flex-1"></div>
+      <div class="flex-1" />
       <span>{{ auth.user.email }}</span>
-      <button @click="logout">Log out</button>
+      <button @click="logout">
+        Log out
+      </button>
     </header>
   </div>
 </template>
